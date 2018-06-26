@@ -1,6 +1,6 @@
 # StickyNotes-ReactApp
 
-* Skicky Notes is an applications developed using ReactJS
+* Sticky Notes is an application developed using ReactJS
 * This application allows user to add new Sticky Note on Board
 * User can Update or Delete existing Sticky Notes
 
